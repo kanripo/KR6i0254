@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 思惟略要法
+#+DATE: 2015-08-30 20:14:08.241402
+#+PROPERTY: JUAN 0
